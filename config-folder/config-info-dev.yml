@@ -1,3 +1,7 @@
 com:
   springcloud:
     config: "i am dev11 config"
+spring:
+  cloud:
+    config:
+      refreshInterval: 60000 # 定义一个属性 定时刷新
