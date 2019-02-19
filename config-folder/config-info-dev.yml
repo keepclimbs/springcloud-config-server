@@ -1,4 +1,4 @@
 com:
   springcloud:
     config: "i am dev config"
-    refreshInterval: 60000  # 定义一个属性 定时刷新
+    refreshInterval: 120000  # 定义一个属性 定时刷新
