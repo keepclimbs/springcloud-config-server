@@ -1,0 +1,3 @@
+com:
+  springcloud:
+    config: "i am prod config"
